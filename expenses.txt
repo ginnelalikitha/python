@@ -1,0 +1,6 @@
+food,700
+travel,1200
+park,100
+cloths,1600
+rain,1000.0
+lights,560.0
